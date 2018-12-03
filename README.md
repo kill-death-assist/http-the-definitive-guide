@@ -20,6 +20,7 @@
 1. 11월 27일 시작 - 12월 2일 발표
     - drakejin chapter 1
     - josh chapter 2 
-2. 정해지면 후에 추가합니다.
-
+2. 12월 8일
+    - josh chapter 3
+    - drakejin chapter 4
 ## 이 곳에 작성된 모든 문서는 contributor의 blog에 올려도 좋습니다.
