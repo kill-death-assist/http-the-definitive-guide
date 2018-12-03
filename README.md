@@ -18,9 +18,9 @@
 ## 발표 seq
 
 1. 11월 27일 시작 - 12월 2일 발표
-    - drakejin chapter 1
-    - josh chapter 2 
+    - chapter 1: drakejin
+    - chapter 2: josh
 2. 12월 8일
-    - josh chapter 3
-    - drakejin chapter 4
+    - chapter 3: josh
+    - chapter 4: drakejin
 ## 이 곳에 작성된 모든 문서는 contributor의 blog에 올려도 좋습니다.
