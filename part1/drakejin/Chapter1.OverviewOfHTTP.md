@@ -63,8 +63,8 @@ HTTP의 트렌젝션은 응답과 요청으로 하나의 작업단위로 구성�
 
 | HTTP Status Code | Description               |
 |------------------|---------------------------|
-| 2xx              | 성공                      |
-| 3xx              | 성공 again                |
+| 2xx              | 성공                       |
+| 3xx              | Redirection               |
 | 4xx              | Hey Client, You fxxked up |
 | 5xx              | Hey we fxxcked up         |
 
